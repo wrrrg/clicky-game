@@ -10,6 +10,12 @@
   text-align: left;
 }
 
+.card:hover {
+  box-shadow: 0 3px 6px rgba(255, 5, 110, 0.7), 0 3px 6px #999;
+  width: 275px;
+  height: 275px;
+}
+
 .card > .img-container {
   height: 100%;
   overflow: hidden;
